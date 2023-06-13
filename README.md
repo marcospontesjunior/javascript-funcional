@@ -2,7 +2,7 @@
 
 ### Sobre:
 
-Repositório de exercícios e conteúdos aprendido no curso JavaScript Funcional e Reativo!
+Repositório de exercícios e conteúdos aprendido.
 
 ### Proposta e Objetivo do Curso:
 
