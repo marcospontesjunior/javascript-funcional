@@ -1,5 +1,5 @@
 /* função map é a função responsável por transformar
-   por transformçar os elementos de um array */
+   os elementos de um array */
 
 const numero = [1, 2, 3, 4, 5, 6];
 
