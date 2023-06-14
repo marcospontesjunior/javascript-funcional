@@ -4,13 +4,13 @@
 
 Repositório de exercícios e conteúdos aprendido.
 
-### Proposta e Objetivo do Curso:
+### Proposta e Objetivo:
 
-Neste curso, você aprenderá a pensar como um programador JavaScript, mas para que isso aconteça
-é essencial o domínio do uso de funções e paradigma funcional. Curso completamente focado no 
+Você aprenderá a pensar como um programador JavaScript. Mas para que isso aconteça,
+é essencial o domínio do uso de funções e paradigma funcional. Focado no 
 paradigma funcional e programação reativa, garantindo que você se torne um programador melhor
-e completo. Você aprenderá durante o curso a criar códigos de forma funcional com a mentalidade correta,
-escrever código JavaScript com mentalidade de um programador JavaScript, dominar o uso de funções e muito mais.
+e completo. Aprenderá a criar códigos de forma funcional com a mentalidade correta,
+escrever código JavaScript com mentalidade de um programador JavaScript e dominar o uso de funções!
 
 ### Objetivo Pessoal com o Curso:
 
