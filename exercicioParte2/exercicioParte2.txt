@@ -1,0 +1,11 @@
+## Exercício
+
+### Objetivo:
+
+    - Utilizando as funções filter, map e reduce descobrir a média dos alunos com nota acima de 9
+      e dos alunos com nota abaixo de 9.
+
+    { nome: "Pedro", nota: 6.4 },
+    { nome: "Lucas", nota: 8.6 },
+    { nome: "Roberta", nota: 9.4 },
+    { nome: "Fábio", nota: 9.1 },
