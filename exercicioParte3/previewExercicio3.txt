@@ -1,0 +1,9 @@
+## Exercício
+
+### Objetivo:
+
+    - criar uma função somar(3)(4)(5)
+    - ciar uma função calcular(3)(7)(fn)
+        fn -> 3 + 7
+        fn -> 3 - 7
+        fn -> 3 * 7s
