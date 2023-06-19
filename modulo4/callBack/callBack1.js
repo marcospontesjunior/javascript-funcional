@@ -16,7 +16,7 @@ console.log(Array(resultado, resultado1));
 const cb = () => console.log("Executando...");
 setInterval(cb, 1000); // função + o tempo em ms que cada função será chamda
 
-/* outros modos que pode ser feito
+/* outros modos que podem serem feitos
 
 setInterval(() => console.log("Executando..."), 1000);
 
@@ -25,4 +25,3 @@ ou;
 setInterval(function () {
   console.log("Executando...");
 }, 1000); */
-
