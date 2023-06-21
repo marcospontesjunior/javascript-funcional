@@ -1,0 +1,8 @@
+## Exercício
+
+### Objetivo:
+    Utilizando as funções filter, map e reduce:
+
+    - frágil = true
+    - achar valor total dos produtos frágeis
+    - media total
