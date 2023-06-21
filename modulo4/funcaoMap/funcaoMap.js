@@ -30,21 +30,3 @@ console.log(compra.map(nomeProduto));
 const valorTotal = (objeto) => objeto.qtde * objeto.preco;
 
 console.log(compra.map(valorTotal));
-
-// criando uma função map
-
-Array.prototype.novoMap = function (fn) {
-  const novoArrary = [];
-  for (let i = 0; i < this.length; i++) {
-    novoArrary.push(fn(this[(i, i, this)]));
-  }
-  return novoArrary;
-};
-
-const nomeProduto1 = (nome) => nome.nome;
-
-console.log(compra.map(nomeProduto1));
-
-const valorTotal1 = (objeto) => objeto.qtde * objeto.preco;
-
-console.log(compra.map(valorTotal1));
