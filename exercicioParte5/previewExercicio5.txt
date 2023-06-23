@@ -1,0 +1,6 @@
+## Exercício
+
+### Objetivo:
+    Utilizando o método readFile e Promise:
+
+    - resultado da Promise seja o conteúdo do arquivo
